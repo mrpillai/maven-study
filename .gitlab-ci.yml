@@ -1,0 +1,5 @@
+demo-test:
+script: 
+  - "echo Hello World by Mridu"
+tags: 
+  - ci

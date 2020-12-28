@@ -1,5 +1,5 @@
 demo-test:
 script: 
-  - "echo Hello World by Mriduss"
+  - "echo Hello World by Mriduss1"
 tags: 
   - ci
